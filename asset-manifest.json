@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.994f781c.css",
+    "main.js": "/static/js/main.c6047882.js",
+    "static/media/bgm1.png": "/static/media/bgm1.33a9ed9aff557cc02898.png",
+    "static/media/woman.png": "/static/media/woman.8eac27ae71e854d3cbe7.png",
+    "static/media/bg6.png": "/static/media/bg6.6a8676ed4cda8f67b5a7.png",
+    "static/media/bg2.png": "/static/media/bg2.f3f75accef36308547e1.png",
+    "static/media/bg5.png": "/static/media/bg5.2a10d7e1f88f55c4baee.png",
+    "static/media/bgmOverlay.png": "/static/media/bgmOverlay.64daf753fe26be2302e3.png",
+    "static/media/bg4.png": "/static/media/bg4.43ad721fc44c3c56f61c.png",
+    "static/media/bg3.png": "/static/media/bg3.bf77048e6c27a3f0e179.png",
+    "static/media/implantacao_e_plantas.png": "/static/media/implantacao_e_plantas.b02b57465d6729ec6cd1.png",
+    "static/media/bgeffect.png": "/static/media/bgeffect.f7a05323285f6b69237b.png",
+    "static/media/logo.png": "/static/media/logo.a780096546682c7cb765.png",
+    "static/media/paying.png": "/static/media/paying.a6f391a2712bb3226d48.png",
+    "static/media/logof.png": "/static/media/logof.7bc1c1fba7b4a63827be.png",
+    "index.html": "/index.html",
+    "main.994f781c.css.map": "/static/css/main.994f781c.css.map",
+    "main.c6047882.js.map": "/static/js/main.c6047882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.994f781c.css",
+    "static/js/main.c6047882.js"
+  ]
+}
